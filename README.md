@@ -14,6 +14,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-F05032.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-F05032.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
