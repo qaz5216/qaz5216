@@ -1,5 +1,4 @@
 ### PARK KYOUNG MIN<hr/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaz5216&show_icons=true&theme=radical)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=srail2)](https://solved.ac/srail2/)
 # Available Skills
 ### Game / Simulation Development
